@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#263238"
+    android:weightSum="3">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4!"
+        android:textSize="150sp"
+        android:layout_marginBottom="10dp"
+        android:textColor="#DD2C00"
+        android:layout_gravity="center"
+        android:layout_weight="0"/>
+   <LinearLayout
+       android:layout_weight="2"
+       android:orientation="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+
+
+       <Button
+           android:layout_marginTop="30dp"
+           android:id="@+id/new_game_button"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="new game"
+           android:textSize="20sp"
+           android:background="@drawable/start"
+           android:layout_marginBottom="20dp"/>
+
+
+       <Button
+           android:id="@+id/leaderboard_button"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="leaderboard"
+           android:textSize="20sp"
+           android:background="@drawable/start"
+           android:layout_marginBottom="20dp"/>
+
+       <Button
+           android:id="@+id/achievement_button"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="achievements"
+           android:background="@drawable/start"
+           android:textSize="20sp"
+           android:layout_marginBottom="40dp"/>
+
+
+   </LinearLayout>
+
+
+</LinearLayout>

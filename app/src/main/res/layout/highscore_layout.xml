@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="26dp"
+    android:layout_gravity="center"
+    android:background="#263238">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="NEW BEST!!!"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:textColor="#DD2C00"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"/>
+
+    <TextView
+        android:id="@+id/your_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_gravity="center"
+        android:textColor="#DD2C00"
+        android:text=""/>
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/trophy"/>
+
+    <Button
+        android:id="@+id/check_achievement_button"
+        android:layout_width="wrap_content"
+        android:textColor="#DD2C00"
+        android:textSize="15sp"
+        android:text="check Achievements Unlocked"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

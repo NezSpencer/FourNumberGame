@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Four Numbers</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_loader">Four Numbers</string>
+    <string name="LeaderBoard_id">539570356784</string>
+    <string name="App_id">539570356784</string>
+
+</resources>
