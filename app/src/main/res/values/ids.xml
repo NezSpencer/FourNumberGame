@@ -6,8 +6,13 @@
     <string name="achievement_3">CgkIsISZh9oPEAIQBQ</string>
     <string name="achievement_4">CgkIsISZh9oPEAIQBg</string>
     <string name="achievement_5">CgkIsISZh9oPEAIQBw</string>
+    <string name="achievement_factor_of_five">CgkIsISZh9oPEAIQCA</string>
+    <string name="achievement_dozen">CgkIsISZh9oPEAIQCQ</string>
+    <string name="achievement_even">CgkIsISZh9oPEAIQCg</string>
+    <string name="achievement_odd">CgkIsISZh9oPEAIQCw</string>
     <string name="board_id">CgkIsISZh9oPEAIQAA</string>
 
     <string name="adUnitId">ca-app-pub-6876251827178857/5984142529</string>
+    <string name="bannerId">ca-app-pub-6876251827178857/6263880524 </string>
 
 </resources>

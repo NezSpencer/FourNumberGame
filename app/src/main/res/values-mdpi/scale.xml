@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height">70sp</dimen>
+    <dimen name="margin1">40dp</dimen>
+    <dimen name="margin2">30dp</dimen>
+    <dimen name="marginLeft">40dp</dimen>
+</resources>

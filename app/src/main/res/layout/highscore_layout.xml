@@ -26,18 +26,13 @@
 
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         android:layout_gravity="center"
-        android:src="@drawable/trophy"/>
+        android:src="@drawable/trophy"
+        android:layout_marginBottom="20dp"/>
 
-    <Button
-        android:id="@+id/check_achievement_button"
-        android:layout_width="wrap_content"
-        android:textColor="#DD2C00"
-        android:textSize="15sp"
-        android:text="check Achievements Unlocked"
-        android:layout_height="wrap_content" />
+
 
 
 </LinearLayout>
